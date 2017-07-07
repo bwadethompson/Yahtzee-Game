@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yahtzee", "Yahtzee\Yahtzee.csproj", "{AD239A41-DCAC-48B7-8884-4F17E5071BB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yahtzee.Web", "Yahtzee.Web\Yahtzee.Web.csproj", "{01C728DA-332A-4E30-BCB5-3E84853060DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD239A41-DCAC-48B7-8884-4F17E5071BB7}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{AD239A41-DCAC-48B7-8884-4F17E5071BB7}.Debug|x86.ActiveCfg = Debug|x86
+		{AD239A41-DCAC-48B7-8884-4F17E5071BB7}.Debug|x86.Build.0 = Debug|x86
+		{AD239A41-DCAC-48B7-8884-4F17E5071BB7}.Release|Any CPU.ActiveCfg = Release|x86
+		{AD239A41-DCAC-48B7-8884-4F17E5071BB7}.Release|x86.ActiveCfg = Release|x86
+		{AD239A41-DCAC-48B7-8884-4F17E5071BB7}.Release|x86.Build.0 = Release|x86
+		{01C728DA-332A-4E30-BCB5-3E84853060DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C728DA-332A-4E30-BCB5-3E84853060DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C728DA-332A-4E30-BCB5-3E84853060DD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{01C728DA-332A-4E30-BCB5-3E84853060DD}.Debug|x86.Build.0 = Debug|Any CPU
+		{01C728DA-332A-4E30-BCB5-3E84853060DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C728DA-332A-4E30-BCB5-3E84853060DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C728DA-332A-4E30-BCB5-3E84853060DD}.Release|x86.ActiveCfg = Release|Any CPU
+		{01C728DA-332A-4E30-BCB5-3E84853060DD}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cistfs.spscc.edu/tfs/cis%20269%20spring%202017
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Yahtzee\\Yahtzee.csproj
+		SccProjectName1 = Yahtzee
+		SccLocalPath1 = Yahtzee
+		SccProjectUniqueName2 = Yahtzee.Web\\Yahtzee.Web.csproj
+		SccProjectName2 = Yahtzee.Web
+		SccLocalPath2 = Yahtzee.Web
+	EndGlobalSection
+EndGlobal
